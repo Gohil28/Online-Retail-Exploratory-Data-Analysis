@@ -14,7 +14,7 @@ _pandas_
 _numpy_
 _seaborn_
 _matplotlib_
-_These packages should already be installed in Coursera's Jupyter Notebook environment, however if you'd like to install additional packages that are not included in this environment or are working off platform you can install additional packages using !pip install packagename within a notebook cell such as:_
+_These packages should already be installed in Jupyter Notebook environment, however if you'd like to install additional packages that are not included in that environment you can install additional packages using !pip install packagename within a notebook cell such as:_
 
 <h3>!pip install pandas</h3>
 <h3>!pip install matplotlib</h3>
